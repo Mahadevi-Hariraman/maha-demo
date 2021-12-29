@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is fileone
-hi thr
+hi r
+=======
+This is maha-demo1
+
